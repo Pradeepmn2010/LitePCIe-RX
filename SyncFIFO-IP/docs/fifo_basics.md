@@ -40,7 +40,7 @@ In digital logic, a FIFO is used to temporarily store data, especially when ther
 
 ## 🧠 FIFO Block Diagram
 
-![FIFO Block Diagram](./docs/images/fifo_block_diagram.png)
+![FIFO Block Diagram](images/fifo_block_diagram.png)
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
